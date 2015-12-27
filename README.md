@@ -1,2 +1,2 @@
-# c-sharp-6-vs-c-sharp5-examples
+# c-sharp-6-features
 Some examples to understand the new C# 6 features.
